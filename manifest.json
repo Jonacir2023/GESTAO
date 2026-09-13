@@ -1,6 +1,6 @@
 {
-  "name":"BUILDLy Premium V2",
-  "short_name":"BUILDLy V2",
+  "name":"Gestão",
+  "short_name":"Gestão",
   "start_url":"./index.html",
   "display":"standalone",
   "background_color":"#f4f7fa",
