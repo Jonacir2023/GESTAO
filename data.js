@@ -67,7 +67,6 @@ window.BUILDLY_DATA = {
   workforce:[],
   activitiesCatalog:[],
   epis:[],
-  epiDeliveries:[],
   functionHistory:[],
   equipmentAllocations:[],
   epiFunctionLinks:[]
